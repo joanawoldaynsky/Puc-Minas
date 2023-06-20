@@ -1,7 +1,7 @@
 # Repositórios de Ciência da Computação (2021 - 2024)
 
 ## 1º Período 
-* Algoritmo e Estrutura de Dados I
+* [Algoritmo e Estrutura de Dados I](https://github.com/joanawoldaynsky/AEDs-I)
 * Interface Web
 * Trabalho Interdisciplinar I : Aplicações Web
 
