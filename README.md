@@ -2,7 +2,7 @@
 
 ## 1º Período 
 * [Algoritmo e Estrutura de Dados I](https://github.com/joanawoldaynsky/AEDs-I)
-* Interface Web
+* [Interface Web](https://github.com/joanawoldaynsky/Interface-Web)
 * Trabalho Interdisciplinar I : Aplicações Web
 
 ## 2º Período
@@ -14,7 +14,7 @@
 * Algoritmo e Estrutura de Dados III
 * Linguagens de Programação
 * Arquitetura de Computadores II
-* Engenharia de Sotfware I
+* Engenharia de Software I
 
 ## 4º Período
 * Inteligência Artificial 
