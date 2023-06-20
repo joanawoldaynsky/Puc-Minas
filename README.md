@@ -3,7 +3,7 @@
 ## 1º Período 
 * [Algoritmo e Estrutura de Dados I](https://github.com/joanawoldaynsky/AEDs-I)
 * [Interface Web](https://github.com/joanawoldaynsky/Interface-Web)
-* Trabalho Interdisciplinar I : Aplicações Web
+* [Trabalho Interdisciplinar I : Aplicações Web](https://github.com/joanawoldaynsky/TI-I)
 
 ## 2º Período
 * Algoritmo e Estrutura de Dados II
