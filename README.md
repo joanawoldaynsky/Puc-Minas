@@ -1,4 +1,4 @@
-# Repositórios dos trabalhos realizados no curso de Cinência da Computação (2021 - 2024)
+# Repositórios de Ciência da Computação (2021 - 2024)
 
 ## 1º Período 
 * Algoritmo e Estrutura de Dados I
