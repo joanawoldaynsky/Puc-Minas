@@ -13,7 +13,7 @@
 
 ## 3º Período
 * Algoritmo e Estrutura de Dados III
-* Linguagens de Programação
+* Cáluculo II
 * Arquitetura de Computadores II
 * Engenharia de Software I
 
